@@ -18,7 +18,7 @@ The arduino waits untill the pushbutton is pressed to show the temperature measu
 With a simple form (Name, ID, City and Temperature) we track the possibles disease vectors. With the possibility to automatically update the information to our database, or when without internet connection, save the data in an offline file, with the possibility to manually upload the information later.
 
 *DiaGo_NASASpaceApps.apk*
-*ai2.appinventor.mit.edu/?galleryId=6486989629423616*
+ai2.appinventor.mit.edu/?galleryId=6486989629423616
 
 ##### DataBase
 Our prototype database is stored in a spreadsheet in googledocs. 
