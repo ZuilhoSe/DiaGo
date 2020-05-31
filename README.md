@@ -1,9 +1,8 @@
 # DiaGo
-An application developed for the Nasa Space Apps. Aiming to provide a easy way to track diseases contamination, comes up DiaGo.
+DiaGO is an app developed for NASA Space Apps, aiming to provide an easy to track the spread of diseases worldwide.
 
 ## General Objective
-Our objective is to use the temperature sensor in the entrance of the cities, this way, is possible to track the dissemination of viruses and disseases.
-To do that, the arduino is used to enable the automatic fill of the temperature in the app, that connects to our database and track people with syntoms and possible disseases. Using this database coneected with Nasa World Wind API, is possible to see the data in a globe, with visual graphs, and create public polities to contain future pandemics.
+Our goal is to use an infrared sensor to evaluate the temperature of individuals in key points of transmission, in order to track the origins and spread patterns of diseases according to demographic density and monitoring systems. To execute this, Arduino enables the automatic measurement of temperature in the app, connecting the information collected to a database that supervises the possibly infected citizens. When this database is connected to NASA World Wind API, it is possible to watch the spread of diseases in maps or graphs, which can be the sources of information to create new public policies, preventing future pandemics.
 
 ## Prototype 
 ##### List of components 
