@@ -18,8 +18,14 @@ The arduino waits untill the pushbutton is pressed to show the temperature measu
 ##### Android APP
 With a simple form (Name, ID, City and Temperature) we track the possibles disease vectors. With the possibility to automatically update the information to our database, or when without internet connection, save the data in an offline file, with the possibility to manually upload the information later.
 
+*DiaGo_NASASpaceApps.apk*
+
 ##### DataBase
 Our prototype database is stored in a spreadsheet in googledocs. 
 
+*https://docs.google.com/spreadsheets/d/1x9ipVpKDqaPV8zaKUwc6c23Vz0VCYlpKp-Mm9eBmjog/edit?usp=sharing*
+
 ##### Viewing of the data
 In the spreadsheet used to store the data, is possible to se the symptomatic cases, and see the city he is now.
+
+*https://docs.google.com/spreadsheets/d/1x9ipVpKDqaPV8zaKUwc6c23Vz0VCYlpKp-Mm9eBmjog/edit?usp=sharing*
